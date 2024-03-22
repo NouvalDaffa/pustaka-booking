@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
  echo"Nama saya Nouval Daffa
  Saya tingga di daerah Citayam
  olah raga yang saya sukai adalah
- Bulutangkis dan mobile legends";
+ Bulutangkis";
  }
 }
